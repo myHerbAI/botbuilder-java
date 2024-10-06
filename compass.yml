@@ -1,0 +1,16 @@
+name: botbuilder-java
+id: ari:cloud:compass:67089d24-a808-43fc-b21a-7240e68803c5:component/7650235b-1fb9-4e21-b2a8-9f79047496f0/ab6374a1-b555-43f9-a24f-cdf98bb20425
+description: The Microsoft Bot Framework provides what you need to build and connect intelligent bots that interact naturally wherever your users are talking, from text/sms to Skype, Slack, Office 365 mail and other popular services.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/myHerbAI/botbuilder-java
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
